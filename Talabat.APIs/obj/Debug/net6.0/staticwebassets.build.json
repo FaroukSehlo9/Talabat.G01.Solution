@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "kODKr54joHfBt0zeem0Kx5C1/hAVBjD7BLvn5Gqn9i4=",
+  "Source": "Talabat.APIs",
+  "BasePath": "_content/Talabat.APIs",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Talabat.APIs\\wwwroot",
+      "Source": "Talabat.APIs",
+      "ContentRoot": "F:\\programing\\csharpe\\API\\Talabat.G01.Solution\\Talabat.APIs\\wwwroot\\",
+      "BasePath": "_content/Talabat.APIs",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
